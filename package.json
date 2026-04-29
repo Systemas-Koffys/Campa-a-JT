@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Aplicación de gestión de campaña Distrito 6 - Tarija 2026",
   "private": true,
-  "homepage": "https://tuusuario.github.io/campaign-district-6",
+  "homepage": "https://systemas-koffys.github.io/Campa-a-JT",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
