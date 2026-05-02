@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Search, Edit, Trash2, Plus, Eye, Download, Mail } from 'lucide-react';
+import { Search, Edit, Trash2, Plus, Eye, Download, Mail, Users, TrendingUp } from 'lucide-react';
 import { DataManager } from '../utils/DataManager';
 
 export default function PeopleList({ data, userRole, onSelectPerson, onDataUpdate }) {
@@ -272,5 +272,3 @@ export default function PeopleList({ data, userRole, onSelectPerson, onDataUpdat
 function Activity({ size }) {
   return <TrendingUp size={size} />;
 }
-
-import { TrendingUp } from 'lucide-react';
